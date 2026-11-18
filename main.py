@@ -60,7 +60,7 @@ def main():
                 if manager.delete_task(task_id):
                     print("Task deleted successfully!")
                 else:
-                    print("Task not found.")
+                    print("Invalid task ID. No task was deleted.")
 
             except ValueError:
                 print("Please enter a valid numeric ID.")
