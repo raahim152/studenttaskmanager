@@ -1,3 +1,2 @@
-Project status: Planning
-
+Project status: Development
 # studenttaskmanager
