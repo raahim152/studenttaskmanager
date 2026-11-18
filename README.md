@@ -1,2 +1,1 @@
-Project status: Development
-# studenttaskmanager
+Project status: Development and Testing
