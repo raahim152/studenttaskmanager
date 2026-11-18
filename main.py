@@ -53,7 +53,7 @@ def main():
                 if manager.complete_task(task_id):
                     print("Task marked as completed!")
                 else:
-                    print("Task not found.")
+                    print("Invalid ID or task is already completed.")
 
             except ValueError:
                 print("Please enter a valid numeric ID.")
